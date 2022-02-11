@@ -1,3 +1,13 @@
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
 theme: jekyll-theme-minimal
 title: The Woven State
 description: Woven words and thoughts to the outward world.
+
+
