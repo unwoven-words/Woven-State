@@ -3,17 +3,17 @@
 A short tale.
 
 Both got introduced to the life of wheels, clutch in one hand and throttle on other, rode the first
-motorcycle together, the strolls around CP, India Gate on brother's FZS. One stopped and the other
+motorcycle together, the strolls around CP, India Gate on brother's FZS. One stopped, and the other
 continued further.
 
 Both got introduced to the life of so called trekkers hikers adventurers. Thought of themselves as
-badass, but were nothning but enthu cutlets. One stopped and the other continued further.
+badass, but were nothning but enthu cutlets. One stopped, and the other continued further.
 
 Then the idea of climbing big peaks together got them introduced to climbing. One stopped and other
 continued.
 
 Stepping in and out of almost everything together from early college days to entering into the age
-of mid life crisis. Had lot of differences almost every other day, the work didn't allowed to catch
+of midlife crisis. Had a lot of differences almost every other day, the work didn't allow to catch
 up often, from weeks to months, not replying for weeks was considered normal, but still held
 together to eachother.
 
@@ -23,7 +23,7 @@ And then just one fine day, just one fine day, one stopped completely, just comp
 left to continue further....
 
 Until next life baba, it wasn't easy to understand why and how it happened, had spoken just the day
-before when the other was heading out to a mountain ice project and explaining the whole idea of
+before when the other was heading out to a mountain ice project, and explaining the whole idea of
 doing something. How he also got excited when he heard about ice climbing, something they really
 wanted to do together, and now the other doesn't really feel like doing it at all.....
 
