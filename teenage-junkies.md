@@ -29,7 +29,7 @@ wanted to do together, and now the other doesn't really feel like doing it at al
 
 Until next life, if such thing exists....
 
-17th December 2022
+17th January 2022
 
 Wouldn't have left from Delhi had known about it. And as usual smart ass stayed mum about his
 ailment, pretended as if nothing had happened, just kept quite about it!!!!!!!
