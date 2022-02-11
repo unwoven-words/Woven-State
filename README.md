@@ -3,7 +3,7 @@ thoughts or state into or for the outward world. You may like or dislike the tho
 put here, but these are just mine.
 
 So back at the end of school in 2006 I started to write-up things for myself - didn't had a personal
-laptop back then, just a shared computer between me and my brother, so I just used to write things
+laptop back then, just a shared computer between my brother and me, so I just used to write things
 on empty paper of old school notebooks and staple them together.
 
 Now I have started maintaining a personal project online, and I just make sure I'm emptying my
