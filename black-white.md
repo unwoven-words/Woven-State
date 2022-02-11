@@ -1,16 +1,18 @@
 #### Black and White
 
 I’m an engineer, I program, I code for things to work. There are always two sides for things to work
+
 - either it is good or either it’s not, either it’s correct or either is not correct, either it will
-work or either it will not!
+  work or either it will not!
 
 Exactly! Either it will work - term it as white may be or either it will not work at all - term it
-as grey. There is no grey, there is no other color in between. I believe Life should be like this,
+as black. There is no grey, there is no other color in between. I believe Life should be like this,
 no midways. You cannot really keep sailing in the ocean or river, you have to come the one side of
 the shore.
 
 Decision needs to be deterministic and hence the outcome - either it works or it will not. If they
-aren't deterministic, one just keep on hanging on their each side. So let’s not make it complicated.
+aren't deterministic, one just keep on lingering around on each side. So let’s not make it
+complicated.
 
 So, let’s say and assume that it is complicated, I cannot make a decision. But ever thought why it
 makes it complicated? The circumstances? Hmmmm okay I agree, circumstances doesn't make it easy. But

@@ -7,22 +7,23 @@ laptop back then, just a shared computer between me and my brother, so I just us
 on empty paper of old school notebooks and staple them together.
 
 Now I have started maintaining a personal project online, and I just make sure I'm emptying my
-thoughts there. Below are very few of them which I don't mind sharing with known people and strangers(
+thoughts there. Below are very few of them which I don't mind sharing with known people and
+strangers(
 in-fact I feel more secured sharing things with strangers).
 
 - [A short tale about two teenagers](teenage-junkies.md)
 
-Both got introduced to the life of wheels, clutch in one hand and throttle on other, rode the first
-motorcycle together, the s trolls around CP, India Gate on brother's FZS. One stopped and the other
-continued further... [read more](teenage-junkies.md)
+  Both got introduced to the life of wheels, clutch in one hand and throttle on other, rode the
+  first motorcycle together, the s trolls around CP, India Gate on brother's FZS. One stopped and
+  the other continued further... [read more](teenage-junkies.md)
 
 - [Black and White](black-white.md)
 
-There are always two sides for things to work - either it is good or either it’s not, either it’s
-correct or either is not correct, either it will work or either it will not!
-... [read more](black-white.md)
+  There are always two sides for things to work - either it is good or either it’s not, either it’s
+  correct or either is not correct, either it will work or either it will not!
+  ... [read more](black-white.md)
 
 - [Quite](quite.md)
 
-What it is like to be quiet? What it is like to be observant? What it is to be like an un-reactive
-element? ... [read more](quite.md)
+  What it is like to be quiet? What it is like to be observant? What it is to be like an un-reactive
+  element? ... [read more](quite.md)
