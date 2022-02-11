@@ -26,8 +26,13 @@ strangers(in-fact I feel more secured sharing things with strangers).
 
   What it is like to be quiet? What it is like to be observant? What it is to be like an un-reactive
   element? ... [read more](quite.md)
-  
+
 - [Experience and Luck](experience-luck.md)
 
   So what I have understood during the course of time is, at beginning you have two jars - one an
   experience jar and another a Luck jar... [read more](experience-luck.md)
+
+- [I think, I think a lot](think-a-lot.md)
+
+  Four years to make a decision is pretty long. From becoming a sound engineer when I was young, to
+  some [read more](think-a-lot.md)
