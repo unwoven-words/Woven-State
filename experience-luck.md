@@ -4,10 +4,10 @@ So what I have understood during the course of time is, at beginning you have tw
 experience jar and another a Luck jar.
 
 The Luck jar is full at the beginning and Experience jar empty. As one progresses, you take a
-portion Luck and put it into Experience. And at a very later stage, without realizing, the Luck jar
-becomes empty and Experience jar if full.
+portion of Luck and put it into Experience. And at a very later stage, without realizing, the Luck jar
+becomes empty and Experience jar is full.
 
-Does that worry you, I believe yes - you become confident, in-fact over-confident and end making
+Does that worry you, I believe yes - you become confident, in-fact over-confident and end-up making
 wrong decisions, and now if you remember, the Luck jar is now empty!
 
 I really haven't figured out of way to handle this situation, and believe that what one requires is
