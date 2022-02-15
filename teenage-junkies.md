@@ -34,4 +34,7 @@ Until next life, if such thing exists....
 Wouldn't have left from Delhi had known about it. And as usual smart ass stayed mum about his
 ailment, pretended as if nothing had happened, just kept quite about it!!!!!!!
 
+But, then what you realize is, even the trees and plants lose their leaves in autumn and then a new
+chapter starts.
+
 The Teenage junkies - Indoriya and Dilliwala

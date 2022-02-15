@@ -10,6 +10,11 @@ Now I have started maintaining a personal project online, and I just make sure I
 thoughts there. Below are very few of them which I don't mind sharing with known people and
 strangers(in-fact I feel more secured sharing things with strangers).
 
+- [~~Failure~~ or Opportunity](failure-or-oppournity.md)
+
+  A lot of times one fails in life, it can be on personal front or professional. Failure is a failure,
+  isn't it? ... [read more](failure-or-oppournity.md)
+
 - [A short tale about two teenagers](teenage-junkies.md)
 
   Both got introduced to the life of wheels, clutch in one hand and throttle on other, rode the
