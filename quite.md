@@ -1,4 +1,4 @@
-#### Quite
+## Quite
 
 What it is like to be quiet? What it is like to be observant? What it is to be like an un-reactive
 element?

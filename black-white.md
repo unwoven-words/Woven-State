@@ -1,4 +1,4 @@
-#### Black and White
+## Black and White
 
 I’m an engineer, I program, I code for things to work. There are always two sides for things to work
 

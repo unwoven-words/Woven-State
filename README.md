@@ -10,6 +10,7 @@ and learnings. Being a quite person, at times it's too overwhelming for me and h
 resort to pen and paper, and below are very few of the thoughts which I'm fine to share with
 outward world.
 
+- [Segregation by the society](segregation-by-the-society.md)
 - [Black and White](black-white.md)
 
   There are always two sides for things to work - either it is good or either it’s not, either it’s

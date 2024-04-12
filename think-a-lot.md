@@ -1,4 +1,4 @@
-#### I think, I think a lot
+## I think, I think a lot
 
 Four years to make a decision is pretty long. From becoming a sound engineer when I was young, to
 some engineer now and to something else in the future, all is a journey and experience!
