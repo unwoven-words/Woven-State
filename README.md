@@ -1,12 +1,14 @@
-Hello there, I'm happy and glad that you landed on this page. This is the space where I share my
-thoughts or state for the outward world. You may like or dislike the thoughts which I have, but these are just mine.
+What do you call a state of mind or a state in general? The science describes the state of a matter
+as solid, liquid, gas and plasma. In lay-man language each of them are differentiated by how packed
+the molecules are at a given temperature, pressure and how their shape changes when the first two
+changes. But, can one really relate the same principles when it comes to the thoughts which are
+running inside a human mind; how the thoughts are formed, how different thoughts are related to one
+another?
 
-So back at the end of school in 2006 I started to write-up things for myself - didn't have a personal
-laptop back then, just a shared computer between my brother and me, so I just used to write things
-on empty paper of old school notebooks and staple them together.
-
-Sometime back, I started writing again, and below are very few of them which I don't mind sharing with known people or
-strangers (in-fact I feel more secured sharing things with strangers, they won't judge me :) ).
+The Woven State is all about different thoughts (running into my mind) bounded together, experiences
+and learnings. Being a quite person, at times it's too overwhelming for me and hence, every day I
+resort to pen and paper, and below are very few of the thoughts which I'm fine to share with
+outward world.
 
 - [Black and White](black-white.md)
 
